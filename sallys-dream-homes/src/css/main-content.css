@@ -1,0 +1,7 @@
+
+.main-well {
+    height: 92%;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,17 @@
+.portal-box {
+    height: 400px;
+    width: 400px;
+    margin: 20px;
+    border: 1px solid mediumorchid;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.portal-box:hover {
+    cursor: pointer;
+}
+
+.house {
+    height: 200px;
+}

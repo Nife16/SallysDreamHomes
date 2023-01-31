@@ -1,0 +1,33 @@
+.property-input {
+    border: none;
+    background-color: lightgrey;
+    color: black;
+    font-weight: 900;
+    height: 40px;
+    width: 80%;
+    text-align: center;
+    margin-top: 8px;
+}
+
+.label {
+    font-weight: 900;
+    margin-top: 10px;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.submit {
+    background-color: mediumorchid;
+    font-weight: 900;
+    font-size: 18px;
+    border-radius: 10px;
+    border-color: black;
+    color: white;
+    padding: 10px 50px;
+    margin-top: 20px;
+    justify-content: center;
+    width: 50%;
+    margin: 20px auto;
+}

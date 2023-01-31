@@ -1,0 +1,27 @@
+.header {
+    height: 8%;
+    flex-direction: row;
+    background-color: #ba55d3;
+    justify-content: center;
+}
+
+.header-container {
+    width: 33%;
+}
+
+.header-links {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 900;
+    color: whitesmoke;
+    padding: 0px 20px;
+}
+
+.link-box {
+    margin: 0px 10x;
+    align-items: center;
+}
+
+.header-links:hover {
+    background-color: mediumpurple;
+}

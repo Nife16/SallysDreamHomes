@@ -1,0 +1,51 @@
+.house-icons {
+    padding: 0 50px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    justify-content: left;
+    margin: 0px 18px;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 20px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    border: none;
+    padding: 0px 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: mediumorchid;
+    border-radius: 10px;
+}
+
+.max-width {
+    max-width: 100%;
+}
+
+.image-list-item {
+    height: 100px;
+    width: 125px;
+    margin: 10px;
+}
+
+.house-box {
+    border: 1px solid mediumorchid;
+    border-radius: 4px;
+    height: 65%;
+    margin: 20px;
+}
+
+.active-image {
+    height: 50%;
+    width: 40%;
+}
+
+.center {
+    justify-content: center;
+    align-items: center;
+}
